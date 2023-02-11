@@ -15,26 +15,26 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_68602CC599854967A36CBA3B2ED6D578"
+        "MsmKey" = "8:_4FFC327002E943448968CD558F91B243"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_FE8511000E604601A4732C7EC61ECDFB"
+        "MsmKey" = "8:_F5D3C069B5244A50ADF117B03C941370"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_68602CC599854967A36CBA3B2ED6D578"
+        "OwnerKey" = "8:_F5D3C069B5244A50ADF117B03C941370"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_FE8511000E604601A4732C7EC61ECDFB"
+        "OwnerKey" = "8:_4FFC327002E943448968CD558F91B243"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -132,14 +132,14 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_68602CC599854967A36CBA3B2ED6D578"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4FFC327002E943448968CD558F91B243"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:NetworkSpeedMonitor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_68602CC599854967A36CBA3B2ED6D578"
+                    "_4FFC327002E943448968CD558F91B243"
                     {
                     "Name" = "8:NetworkSpeedMonitor.exe"
                     "Attributes" = "3:512"
@@ -163,14 +163,14 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FE8511000E604601A4732C7EC61ECDFB"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F5D3C069B5244A50ADF117B03C941370"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:ResetNetworkDevice, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_FE8511000E604601A4732C7EC61ECDFB"
+                    "_F5D3C069B5244A50ADF117B03C941370"
                     {
                     "Name" = "8:ResetNetworkDevice.exe"
                     "Attributes" = "3:512"

@@ -15,12 +15,10 @@ namespace ResetNetworkDevice
 
         static void Main(string[] args)
         {
-            args = new string[1];
-            args[0] = "Realtek PCIe GbE Family Controller";
             
             ShowWindow(GetConsoleWindow(), SW_HIDE);
 
-            if (args.Length == 1)
+            if (args.Length > 0)
             {
                 DisableNetworkAdapter(args[0]);
                 System.Threading.Thread.Sleep(2000);

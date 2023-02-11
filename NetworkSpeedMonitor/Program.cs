@@ -92,7 +92,7 @@ namespace NetworkSpeedMonitor
             {
                 if (ni.Description == NetworkName)
                 {
-                    Process.Start(Path.Combine(Application.StartupPath, "ResetNetworkDevice.exe"));
+                    Process.Start(Path.Combine(Application.StartupPath, "ResetNetworkDevice.exe"), "\"" + NetworkName + "\"");
                 }
             }
         }
